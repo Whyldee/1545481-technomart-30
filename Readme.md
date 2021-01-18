@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Антон Мизев](https://up.htmlacademy.ru/htmlcss/30/user/1545481).
-* Наставник: `Неизвестно`.
+* Наставник: `Владислав Кривокора`.https://htmlacademy.ru/profile/krivokora
 
 ---
 
