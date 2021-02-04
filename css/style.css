@@ -1,0 +1,10 @@
+.logo{
+	background-color: #EE3643;
+	width: 220px;
+	height: 42px;
+	color: white;
+	line-height: 42px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
