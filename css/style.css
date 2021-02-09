@@ -1,10 +1,25 @@
-.logo{
-	background-color: #EE3643;
-	width: 220px;
-	height: 42px;
-	color: white;
-	line-height: 42px;
-	display: inline-block;
-	text-align: center;
-	vertical-align: middle;
+body{
+	font-family: "Cuprum",sans-serif;
 }
+
+.logo{
+	display: inline-block;
+    width: 165px;
+    padding: 11px 0 7px 55px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    background-color: #ee3643;
+    box-shadow: 0 5px 0 0 #b52933;
+}
+.breadcrumbs:first-child{
+	background: url(img/icon/icon-home.svg);
+}
+@font-face {
+
+font-family: "Cuprum";  
+src: url("E:/academy/1545481-technomart-30/fonts/Cuprum.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
